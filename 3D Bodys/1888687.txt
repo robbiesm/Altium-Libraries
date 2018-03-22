@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03112010-120784";"";
+"REFERENCE";"1888687";"";
+"TraceParts.PartTitle";"MKDSN 2,5";"";
+"TraceParts.InstanceId";"10-03112010-120784CYC4YRK5PMJD9L985ARSBK8VY";"";
+"DESIGN";"MKDSN 2,5/ 2-5,08 - PCB terminal block";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PHOENIX_CONTACT:/1/105/1050/10501/105016/10-03112010-120784";"";

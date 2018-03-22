@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"8681480";"";
+"REVISION";"A";"";
+"DESIGN";"Inductor SMD 33uH shielded 12,5x12,5mm";"";
+"TraceParts.InstanceId";"10-26052016-1004968R54U44KZUDYHAFMZX7RUGX9O";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Inductor SMD 33uH shielded 12,5x12,5mm";"";
+"REFERENCE";"PM127SH-330M-RC";"";
+"TIMESTAMP";"20/05/2016 10:27";"";
+"TraceParts.PartNumber";"10-26052016-100496";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_432964/PSS_433012/PSF_433017/10-26052016-100496";"";

@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"9097110";"";
+"REVISION";"A";"";
+"DESIGN";"USB 3.1 Type C Receptacle Mid-mount";"";
+"TraceParts.InstanceId";"10-26052016-095328DSYJOEEEKWMGGIM53AKF4ARF";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"USB 3.1 Type C Receptacle Mid-mount";"";
+"REFERENCE";"2129691-1";"";
+"TIMESTAMP";"20/05/2016 10:10";"";
+"TraceParts.PartNumber";"10-26052016-095328";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_435563/PSS_435835/PSF_776935/10-26052016-095328";"";
