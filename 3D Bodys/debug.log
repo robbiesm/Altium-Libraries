@@ -665,3 +665,7 @@
 [0226/190132:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0226/190137:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0226/190142:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0417/220953:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0418/072615:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0418/073606:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0418/073646:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
